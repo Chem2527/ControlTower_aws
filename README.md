@@ -2,6 +2,8 @@
 
 <img width="575" alt="image" src="https://github.com/user-attachments/assets/8faba9d8-34f4-4afb-b0c9-b447cca427c9" />
 
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/0d70ac2f-43b8-4126-a00d-ef33f3a312bd" />
+
 #   AWS Control Tower Setup Guide
 
 This guide walks you through setting up a secure multi-account environment in **AWS** using **Control Tower**, with detailed instructions tailored for your setup.
