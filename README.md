@@ -1,8 +1,4 @@
-# ControlTower_aws
-
-<img width="575" alt="image" src="https://github.com/user-attachments/assets/8faba9d8-34f4-4afb-b0c9-b447cca427c9" />
-
-<img width="932" alt="image" src="https://github.com/user-attachments/assets/0d70ac2f-43b8-4126-a00d-ef33f3a312bd" />
+# ControlTower_Aws
 
 #   AWS Control Tower Setup Guide
 
@@ -136,3 +132,8 @@ To enroll the sandbox account into Control Tower, you need to manually add the r
 
 >  Controls owned by **AWS Security Hub** are not aggregated into the Control Tower compliance dashboard.  
 >  It's recommended to manually review Security Hub findings.
+
+
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/8faba9d8-34f4-4afb-b0c9-b447cca427c9" />
+
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/0d70ac2f-43b8-4126-a00d-ef33f3a312bd" />
